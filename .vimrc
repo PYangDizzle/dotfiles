@@ -7,3 +7,4 @@ set ignorecase
 set smartcase
 set scrolloff=4
 syn on
+set path=$PWD/**
